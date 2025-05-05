@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-contentsquare",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Node N8N to interact with Contentsquare",
   "keywords": [
     "n8n-community-node-package",
@@ -40,7 +40,7 @@
   "n8n": {
     "n8nNodesApiVersion": 1,
     "credentials": [
-      "dist/credentials/Contentsquare.credentials.js"
+      "dist/credentials/ContentsquareApi.credentials.js"
     ],
     "nodes": [
       "dist/nodes/Contentsquare/Contentsquare.node.js"

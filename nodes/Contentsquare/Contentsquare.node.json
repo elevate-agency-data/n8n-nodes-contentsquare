@@ -1,0 +1,20 @@
+{
+  "node": "n8n-nodes-contentsquare.Contentsquare",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "Contentsquare"
+  ],
+  "resources": {
+    "credentialDocumentation": [
+      {
+        "url": "https://docs.contentsquare.com/en/api/export/"
+      }
+    ],
+    "primaryDocumentation": [
+      {
+        "url": "https://docs.contentsquare.com/en/api/export/"
+      }
+    ]
+  }
+}

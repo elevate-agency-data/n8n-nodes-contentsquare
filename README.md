@@ -1,6 +1,6 @@
 # n8n-nodes-contentsquare  
 
-This is an n8n community node. It lets you interact with AB Tasty in your n8n workflows.  
+This is an n8n community node. It lets you interact with Contentsquare in your n8n workflows.  
 
 Contentsquare specializes in digital experience analytics, providing insights into user behavior to optimize website performance, enhance customer journeys, and drive business growth.
 
